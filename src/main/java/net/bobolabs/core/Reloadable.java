@@ -31,14 +31,14 @@ public interface Reloadable {
     /**
      * Enable implementing class' functionality.
      */
-    default void enable() {
+    default void onEnable() {
 
     }
 
     /**
      * Disable implementing class' functionality.
      */
-    default void disable() {
+    default void onDisable() {
 
     }
 
@@ -46,8 +46,8 @@ public interface Reloadable {
      * Reloads implementing class' functionality.
      */
     default void reload() {
-        disable();
-        enable();
+        onDisable();
+        onEnable();
     }
 
 }
