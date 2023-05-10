@@ -2,8 +2,8 @@
  * This file is part of core.
  *
  * Copyright (C) 2023 BoboLabs.net
- * Copyright (C) 2023 Fabio Nebbia (https://glowy.bobolabs.net)
  * Copyright (C) 2023 Mattia Mignogna (https://stami.bobolabs.net)
+ * Copyright (C) 2023 Fabio Nebbia (https://glowy.bobolabs.net)
  * Copyright (C) 2023 Third party contributors
  *
  * core is free software: you can redistribute it and/or modify
